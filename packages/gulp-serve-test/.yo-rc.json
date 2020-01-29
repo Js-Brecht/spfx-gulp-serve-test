@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "packageManager": "pnpm",
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.9.1",
+    "libraryName": "gulp-serve-test",
+    "libraryId": "78a03c4a-bd37-4c35-82d6-7c746375bcbc",
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

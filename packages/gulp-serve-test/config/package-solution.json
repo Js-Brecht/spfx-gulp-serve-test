@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "gulp-serve-test-client-side-solution",
+    "id": "78a03c4a-bd37-4c35-82d6-7c746375bcbc",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/gulp-serve-test.sppkg"
+  }
+}
